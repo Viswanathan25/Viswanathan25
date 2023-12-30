@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viswanathan</h1>
-- 🌱 I’m **Data science Aspirant**
+
+- 🌱 I’m **Data scientist**
 
 - 💬 Ask me about **Python,Data science**
 
